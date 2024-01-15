@@ -77,11 +77,10 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "React/Next.js",
+    "Node.js/Nest.js",
+    "Python",
+    "Docker",
   ],
   projects: [
     {
