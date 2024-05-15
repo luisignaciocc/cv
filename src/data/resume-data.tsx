@@ -84,6 +84,16 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "CEGIR Dashboard",
+      techStack: ["React", "TypeScript", "Next.js", "Tailwind", "OpenLayers"],
+      description:
+        "pplication developed in collaboration with the Catholic University of Chile with the purpose of, from a single operational point, monitoring, collecting, analyzing, and sharing information between institutions and from and to the public.",
+      link: {
+        label: "Press note",
+        href: "https://puertoie.com/lanzamos-el-centro-de-gestion-integrada-regional-cegir/",
+      },
+    },
+    {
       title: "Rehabilitación Postcovid",
       techStack: ["React", "TypeScript", "Next.js", "MaterialUI", "Loopback4"],
       description:
