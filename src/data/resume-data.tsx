@@ -65,7 +65,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Youtouch",
-      link: "https://bsgroup.eu/",
+      link: "https://youtouch.cl/",
       badges: [],
       title: "Full Stack Developer",
       start: "2019",
