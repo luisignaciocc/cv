@@ -3,13 +3,14 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Luis Ignacio Collantes",
   initials: "LC",
-  location: "Santiago RM, Chile, GMT-3",
+  location: "Santiago RM, Chile, GMT-4",
   locationLink:
     "https://www.google.com/maps/place/Santiago,+Regi%C3%B3n+Metropolitana,+Chile",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
-  summary:
-    "Fullstack developer with 5+ years of experience involved in the whole development lifecycle using the Javascript ecosystem. In my experience, I’ve worked extensively in both frontend and backend, but also desktop and mobile apps. I’m very passionate about startups, and my skills are mainly focused on high-speed product creation and iteration.",
+  summary: `Fullstack developer with ${
+    new Date().getFullYear() - 2019
+  }+ years of experience involved in the whole development lifecycle using the Javascript ecosystem. In my experience, I've worked extensively in both frontend and backend, but also desktop and mobile apps. I'm very passionate about startups, and my skills are mainly focused on high-speed product creation and iteration.`,
   avatarUrl:
     "https://avatars.githubusercontent.com/u/30051417?s=400&u=d9b467d2c99a192ea0fcc2d49da1a672b72922d0&v=4",
   personalWebsiteUrl: "https://luisignacio.cc",
