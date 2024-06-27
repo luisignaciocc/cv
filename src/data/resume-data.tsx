@@ -3,9 +3,9 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Luis Ignacio Collantes",
   initials: "LC",
-  location: "Santiago RM, Chile, GMT-4",
+  location: "GMT-4",
   locationLink:
-    "https://www.google.com/maps/place/Santiago,+Regi%C3%B3n+Metropolitana,+Chile",
+    "https://www.google.com/maps/place/Venezuela",
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary: `Fullstack developer with ${
